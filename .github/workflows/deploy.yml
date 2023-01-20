@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.gbzzyps.mongodb.net
       MONGODB_USERNAME: maverick-karan
-      MONGODB_PASSWORD: malton3186
+      MONGODB_PASSWORD: nFUnp6JuGOwvDcZa
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
